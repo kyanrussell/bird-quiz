@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/bird-quiz/static/css/main.e6c13ad2.css",
+    "main.js": "/bird-quiz/static/js/main.548e9503.js",
+    "static/js/453.0fbca2e1.chunk.js": "/bird-quiz/static/js/453.0fbca2e1.chunk.js",
+    "index.html": "/bird-quiz/index.html",
+    "main.e6c13ad2.css.map": "/bird-quiz/static/css/main.e6c13ad2.css.map",
+    "main.548e9503.js.map": "/bird-quiz/static/js/main.548e9503.js.map",
+    "453.0fbca2e1.chunk.js.map": "/bird-quiz/static/js/453.0fbca2e1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.548e9503.js"
+  ]
+}
